@@ -13,6 +13,6 @@ ___
 
 In this project we will be predicting house prices with Keras regression techniques. We will be using data from a Kaggle dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-As of now we are almost done with data cleaning and exploration and some creative feature engineering. 
+As of now we are done with data cleaning and exploration, some feature engineering and encoding with categorical variables. 
 
-Later on we will explore advanced regression techniques like random forest and gradient boosting. 
+Next we will explore advanced regression techniques like lasso, random forest and gradient boosting. 
