@@ -94,6 +94,7 @@ Id,MSSubClass,MSZoning,LotFrontage,LotArea,LotShape,LandContour,LotConfig,Neighb
 1553,70,RM,60.0,12900,Reg,Lvl,Inside,OldTown,Norm,1Fam,2Story,6,Gable,Wd Sdng,Wd Sdng,None,0.0,Gd,Gd,PConc,Ex,Gd,7,0,NA,1979.0,NA,0.0,NA,344,0,5,WD,Normal,3900.0,1.5,Yes,1
 1554,70,RM,52.0,3068,Reg,Lvl,Inside,OldTown,Norm,1Fam,2Story,6,Gable,VinylSd,VinylSd,None,0.0,TA,Gd,BrkTil,Ex,TA,6,0,Detchd,1920.0,Unf,1.0,TA,0,0,2,WD,Normal,3310.0,1.5,Yes,17
 1555,20,RL,100.0,15263,IR1,Lvl,Inside,ClearCr,Feedr,1Fam,1Story,5,Gable,HdBoard,HdBoard,BrkFace,90.0,TA,TA,CBlock,Gd,TA,8,2,Attchd,1959.0,Unf,1.0,TA,0,132,5,WD,Normal,4772.0,2.0,No,51
+1556,50,RL,72.0,10632,IR1,Lvl,Inside,ClearCr,Norm,1Fam,1.5Fin,5,Gable,Wd Sdng,Wd Sdng,None,0.0,TA,TA,BrkTil,Gd,TA,6,0,Detchd,1917.0,Unf,1.0,Fa,0,0,1,COD,Normal,3137.0,1.5,Yes,60
 1557,190,RL,60.0,9900,Reg,Lvl,Inside,SWISU,Norm,2fmCon,1.5Fin,5,Gable,Wd Sdng,Wd Shng,None,0.0,Fa,Fa,BrkTil,TA,TA,6,0,NA,1979.0,NA,0.0,NA,0,0,2,ConLD,Normal,3996.0,2.0,Yes,60
 1558,50,RL,65.0,6001,IR1,Bnk,Inside,SWISU,Norm,1Fam,1.5Fin,6,Gable,VinylSd,VinylSd,None,0.0,TA,TA,CBlock,Ex,TA,5,0,Detchd,1940.0,Unf,1.0,TA,0,0,3,WD,Normal,2438.0,1.0,Yes,60
 1559,70,C (all),69.0,6449,IR1,Lvl,Inside,SWISU,Norm,1Fam,2Story,4,Gambrel,Wd Sdng,Stucco,None,0.0,TA,TA,CBlock,TA,TA,7,0,NA,1979.0,NA,0.0,NA,0,0,3,WD,Abnorml,4475.0,1.5,Yes,60
@@ -658,6 +659,7 @@ Id,MSSubClass,MSZoning,LotFrontage,LotArea,LotShape,LandContour,LotConfig,Neighb
 2118,50,RM,50.0,6000,Reg,Lvl,Inside,BrkSide,Norm,1Fam,1.5Fin,6,Gable,Wd Sdng,Wd Sdng,None,0.0,TA,TA,CBlock,Ex,TA,7,1,Detchd,1939.0,Unf,1.0,TA,0,0,4,WD,Normal,3423.0,2.0,Yes,58
 2119,45,RM,50.0,5000,Reg,Bnk,Inside,BrkSide,Norm,1Fam,1.5Unf,6,Gable,MetalSd,MetalSd,None,0.0,TA,TA,BrkTil,Ex,TA,6,0,Detchd,1926.0,Unf,1.0,Fa,0,0,4,WD,Normal,3018.0,1.0,Yes,58
 2120,50,RM,60.0,5520,IR1,Lvl,FR2,BrkSide,Feedr,1Fam,1.5Fin,5,Gable,AsbShng,AsbShng,None,0.0,TA,Gd,BrkTil,TA,TA,6,1,BuiltIn,1920.0,RFn,1.0,Fa,0,0,4,WD,Normal,2997.0,2.0,Yes,11
+2121,20,RM,99.0,5940,IR1,Lvl,FR3,BrkSide,Feedr,1Fam,1Story,4,Gable,MetalSd,CBlock,None,0.0,TA,TA,PConc,TA,TA,4,0,Detchd,1946.0,Unf,1.0,TA,0,0,4,ConLD,Abnorml,3923.0,2.2,Yes,58
 2122,50,RM,52.0,6240,Reg,Lvl,Inside,BrkSide,Norm,1Fam,1.5Fin,4,Gable,MetalSd,MetalSd,None,0.0,TA,TA,PConc,Ex,TA,6,0,Detchd,1990.0,Unf,1.0,TA,0,365,8,WD,Normal,2976.0,1.5,Yes,58
 2123,30,RM,69.0,6120,Reg,Lvl,Inside,BrkSide,Norm,1Fam,1Story,5,Gable,Plywood,Plywood,None,0.0,TA,Gd,CBlock,Gd,TA,6,0,Attchd,1925.0,Unf,1.0,TA,0,48,6,WD,Normal,1616.0,1.0,Yes,13
 2124,50,RM,52.0,6240,Reg,Lvl,Inside,BrkSide,Norm,1Fam,1.5Fin,7,Gable,Wd Sdng,Wd Sdng,None,0.0,TA,TA,BrkTil,TA,TA,7,1,Detchd,1939.0,Unf,2.0,TA,0,20,1,WD,Normal,5007.0,2.0,Yes,58
@@ -688,6 +690,7 @@ Id,MSSubClass,MSZoning,LotFrontage,LotArea,LotShape,LandContour,LotConfig,Neighb
 2149,80,RL,69.0,10200,Reg,Lvl,Inside,Sawyer,Norm,1Fam,SLvl,5,Hip,HdBoard,HdBoard,None,0.0,TA,Gd,PConc,Ex,Gd,5,0,2Types,1979.0,Unf,3.0,TA,143,0,6,WD,Normal,2672.0,1.0,No,38
 2150,20,RL,82.0,20270,IR1,Lvl,CulDSac,ClearCr,Norm,1Fam,1Story,7,Gable,Plywood,Plywood,None,0.0,TA,TA,CBlock,TA,TA,7,2,Attchd,1979.0,Fin,2.0,TA,140,0,4,WD,Normal,4572.0,3.0,No,29
 2151,50,RL,50.0,5190,Reg,Lvl,Inside,Edwards,Norm,1Fam,1.5Fin,7,Gable,BrkFace,Plywood,None,0.0,TA,TA,CBlock,TA,TA,5,1,Attchd,1948.0,Unf,1.0,TA,135,0,1,WD,Normal,2728.0,1.0,Yes,58
+2152,30,RL,85.0,19550,Reg,Lvl,Inside,Edwards,Norm,1Fam,1Story,5,Flat,VinylSd,VinylSd,None,0.0,TA,TA,PConc,Ex,Fa,5,2,NA,1979.0,NA,0.0,NA,0,39,1,WD,Normal,4616.0,2.0,Yes,1
 2153,20,RL,68.0,9571,Reg,Lvl,Inside,Edwards,Norm,1Fam,1Story,5,Hip,Wd Sdng,Wd Sdng,None,0.0,TA,TA,CBlock,TA,Gd,6,1,Attchd,1956.0,Unf,1.0,TA,158,0,7,WD,Normal,4527.0,2.0,No,52
 2154,90,RL,50.0,9350,Reg,Lvl,Inside,Edwards,Norm,Duplex,SFoyer,5,Gable,HdBoard,HdBoard,None,0.0,TA,TA,PConc,Fa,TA,4,0,NA,1979.0,NA,0.0,NA,0,0,4,WD,Normal,2592.0,2.0,No,33
 2155,60,RL,50.0,9360,Reg,Lvl,Corner,Edwards,Norm,1Fam,2Story,6,Gable,VinylSd,VinylSd,BrkCmn,216.0,Gd,TA,CBlock,TA,TA,7,0,Detchd,1962.0,Unf,1.0,TA,0,236,11,WD,Normal,3159.0,1.5,Yes,7
@@ -1025,6 +1028,7 @@ Id,MSSubClass,MSZoning,LotFrontage,LotArea,LotShape,LandContour,LotConfig,Neighb
 2487,60,RL,99.0,16779,Reg,Lvl,Inside,Sawyer,Feedr,1Fam,2Story,5,Gable,Wd Sdng,Wd Sdng,BrkFace,356.0,TA,Fa,CBlock,Fa,TA,11,1,Attchd,1946.0,Unf,2.0,TA,128,570,5,WD,Normal,5979.0,3.0,Yes,11
 2488,50,RL,70.0,6960,Reg,Lvl,Inside,Sawyer,Norm,1Fam,1.5Fin,7,Gable,Wd Sdng,Wd Sdng,None,0.0,TA,TA,BrkTil,Ex,Gd,6,2,Attchd,1940.0,Unf,1.0,TA,0,0,7,WD,Normal,3284.0,1.5,Yes,9
 2489,20,RL,91.0,11375,Reg,Lvl,Inside,Sawyer,Norm,1Fam,1Story,6,Gable,VinylSd,VinylSd,None,0.0,TA,TA,CBlock,TA,Gd,6,1,Attchd,1954.0,Unf,2.0,TA,81,0,10,WD,Normal,3565.0,1.0,Yes,12
+2490,20,RL,85.0,13770,Reg,Lvl,Corner,Sawyer,Feedr,1Fam,1Story,5,Gable,Plywood,Plywood,BrkFace,340.0,TA,TA,CBlock,TA,TA,6,2,Attchd,1958.0,Unf,1.0,TA,0,0,10,WD,Normal,3510.0,2.0,Yes,9
 2491,20,RL,69.0,9000,Reg,Lvl,Inside,Sawyer,Norm,1Fam,1Story,4,Gable,Wd Sdng,Wd Sdng,None,0.0,Fa,TA,Slab,TA,TA,5,0,2Types,1952.0,Unf,2.0,Fa,0,0,5,WD,Normal,1996.0,1.0,Yes,57
 2492,20,RL,69.0,11075,Reg,Lvl,Corner,ClearCr,Norm,1Fam,1Story,6,Hip,Wd Sdng,Wd Sdng,BrkFace,136.0,TA,TA,PConc,Ex,TA,7,1,Attchd,1984.0,Fin,2.0,TA,0,77,2,WD,Normal,4234.0,2.0,No,23
 2493,20,RL,69.0,17541,IR1,Lvl,Corner,Edwards,Norm,1Fam,1Story,5,Hip,Wd Sdng,Wd Sdng,None,0.0,TA,Gd,CBlock,Ex,Gd,6,1,Detchd,1996.0,Unf,2.0,TA,0,42,7,WD,Normal,3059.0,2.0,Yes,2
